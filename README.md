@@ -11,9 +11,9 @@ Geography is a game that provides a fun way for players to learn more about ... 
 
 ## Usage
 
-- Run the following command in the main directory to build the game: `.\gradlew build`
-- Run the following command in the main directory to run the game: `.\gradlew bootRun`
-- After running the application, open your web browser and navigate to **http://localhost:8080** to start playing.
+1. Run the following command in the main directory to build the game: `.\gradlew build`
+2. Run the following command in the main directory to run the game: `.\gradlew bootRun`
+3. After running the application, open your web browser and navigate to **http://localhost:8080** to start playing.
 
 
 ## Credits
